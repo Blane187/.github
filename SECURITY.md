@@ -1,4 +1,4 @@
-# Disclaime
+# Disclaimer
 
 The content of this repository is provided for informational purposes only. While we strive to ensure the accuracy and reliability of the information presented, we make no representations or warranties of any kind, express or implied, about the completeness, accuracy, reliability, suitability, or availability with respect to the repository or the information, products, services, or related graphics contained within it. Any reliance you place on such information is therefore strictly at your own risk.
 
